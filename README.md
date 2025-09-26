@@ -1,1 +1,1 @@
-Wqlcome to GIT 101
+Welcome to GIT 101
